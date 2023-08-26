@@ -36,7 +36,7 @@ public class RestroAppApplication {
 	@Bean
 	public CommandLineRunner loadData(RestaurantRepository restaurantRepository,
 			BasicInformationRepository basicInformationRepository, CustomerRepository customerRepository,
-			StaffRepository staffRepository, MenuRepository menuRepository, OrderItemRepository orderItemRepository,
+			StaffRepository2 staffRepository, MenuRepository menuRepository, OrderItemRepository orderItemRepository,
 			OrderRepository orderRepository)
 
 	{
