@@ -49,7 +49,7 @@ public class RestroAppApplication {
 		Customer customer3 = new Customer("Samrath", "myselflovjot@gmail.com", "7508351387", customerAddress1);
 		Staff staff1 = new Staff("Tehraan", "md.tehraan@gmail.com", "889966256", staffAddress1);
 		Restaurant r1 = new Restaurant("Kathi kingz", "Kathikingz@gmail.com", "9958648682", restaurantAddress1);
-		Restaurant r2 = new Restaurant("Rollz king", "Kathikingz@gmail.com", "9958648682", restaurantAddress1);
+		Restaurant r2 = new Restaurant("Rollz kings", "Kathikingz@gmail.com", "9958648682", restaurantAddress1);
 
 		customer1.setRestaurant(r1);
 		customer2.setRestaurant(r1);
